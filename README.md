@@ -31,4 +31,9 @@ This HTML page contains a simple form that allows users to calculate the needed 
 3. Click "Calculate Capacitance".
 4. The result will be displayed as: `The needed capacitance value is: 0.000005 farads`.
 
-This HTML-based capacitor calculator provides a quick and easy way to determine the capacitance value required for your specific electrical circuit needs.
+>[!NOTE]
+>This HTML-based capacitor calculator provides a quick and easy way to determine the capacitance value required for your specific electrical circuit needs.
+
+
+>[!WARNING]
+>This project is protected under [MIT License](LICENSE).
